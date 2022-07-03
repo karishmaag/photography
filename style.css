@@ -1,0 +1,109 @@
+*{
+    padding:0px;
+    margin:0px ;
+}
+body{
+    background-color: #bfbdb6;
+}
+#div-1{
+    background-color: black;
+    color:white;
+    display: flex;
+    justify-content:space-around;
+    justify-content: center;
+    margin-left:200px ;
+    margin-top:50px;
+    align-items: center;
+    
+}
+#writing
+{   display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    margin-left: 10px;
+    margin-bottom: 50px;
+    padding:60px;
+
+}
+#div-2
+{
+    background-color: black;
+    color:white;
+    display: flex;
+    flex-direction: column;
+    justify-content:space-around;
+    margin-top:50px;
+    margin-right:200px ;
+    
+}
+#div-3
+{
+    background-color: black;
+    color:white;
+    display: flex;
+    flex-direction: column;
+    margin-right:200px ;
+    margin-top:50px;
+      
+}
+#div-4
+{
+    background-color: black;
+    color:white;
+    display: flex;
+    flex-direction: column;
+    margin-right:200px ;
+    margin-top:50px;
+}
+#backGroundImage
+{
+    height:50em; 
+    width: 50vw;
+}
+#firstImage
+{
+    width: 45em;
+}
+#secondImage
+{
+margin-top: 20px;
+height:25em;
+width:45em;
+}
+#thirdImage
+{
+    width:45em ;
+}
+#fourthImage
+{
+width: 45em;
+}
+#firstImageName
+{
+    padding:50px;
+}
+#secondImageName
+{
+   padding: 50px; 
+}
+#thirdImageName
+{
+    padding: 50px;    
+}
+#ourWork
+{
+    padding: 10px 10px 10px 300px;
+
+}
+#viewWork:hover{
+    color: blueviolet;
+}
+#viewWork
+{
+   color: white;
+   border:solid white;
+   border-radius: 10px;
+   text-decoration: none;
+}
